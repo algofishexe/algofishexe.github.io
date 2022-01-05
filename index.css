@@ -12,6 +12,7 @@ body {
   justify-content: normal;
   align-items: center;
   flex-direction: column;
+  margin: 5vw;
 }
 
 .hor {
@@ -19,6 +20,7 @@ body {
 }
 
 img {
+  max-width: 70vw;
   box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
   border-radius: 1em;
 }
@@ -41,7 +43,6 @@ h1 {
 
 
 .content {
-  margin: 0px 80px;
   max-width: 512px;
   font-size: 1.1em;
   line-height: 1.5em;
