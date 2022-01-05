@@ -41,7 +41,7 @@ h1 {
 
 
 .content {
-  margin: 0px 30px;
+  margin: 0px 80px;
   max-width: 512px;
   font-size: 1.1em;
   line-height: 1.5em;
@@ -80,7 +80,7 @@ body::-webkit-scrollbar-track {
   background: var(--scrollbarBG);
 }
 body::-webkit-scrollbar-thumb {
-  background-color: rgb(195,84,255);
+  background-color: rgba(195,84,255,0.3);
   border-radius: 50px;
   border: 10px solid #FFEEEE;
 }
